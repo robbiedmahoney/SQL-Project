@@ -1,7 +1,7 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-To learn and execute SQL queries
+To learn and execute SQL queries, and analyze data.
 
 ## Process
 Visualize the data
