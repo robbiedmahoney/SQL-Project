@@ -1,17 +1,17 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+To learn and execute SQL queries
 
 ## Process
-### (your step 1)
-### (your step 2)
+Visualize the data
+Search the data
 
 ## Results
-(fill in what you discovered this data could tell you and how you used the data to answer those questions)
+A lot of information can be gleaned from the tables such as who ordered, what they ordered, what countries had the highest sales, etc.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Remembering SQL queries syntax learned so far
 
 ## Future Goals
-(what would you do if you had more time?)
+Spend more time practising
